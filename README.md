@@ -1,5 +1,5 @@
 # CS50 Web Programming with Python and JavaScript
-This is a copy of all my project submissions for Harvard's CS50 Web course
+This is a copy of all my project submissions for Harvard's CS50 Web course. These are all hands-on project and do not have a step-by-step tutorial to follow along with.
 
 | # | Name  | Status  | Demo | Topics |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
